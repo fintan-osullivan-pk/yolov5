@@ -1,0 +1,7 @@
+train: ../drive/MyDrive/google-colab-notebooks/datasets/synthetic-dataset-2.0/train/images # train images
+val: ../drive/MyDrive/google-colab-notebooks/datasets/synthetic-dataset-2.0/val/images # val images
+test: ../drive/MyDrive/google-colab-notebooks/datasets/synthetic-dataset-2.0/test/images # test images
+
+# Classes
+nc: 3  # number of classes
+names: ['tree trunk', 'post', 'person']  # class names
